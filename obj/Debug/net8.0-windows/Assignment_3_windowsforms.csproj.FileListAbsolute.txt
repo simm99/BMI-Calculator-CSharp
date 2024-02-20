@@ -1,0 +1,16 @@
+C:\Users\simm9\source\repos\Assignment_3_windowsforms\bin\Debug\net8.0-windows\Assignment_3_windowsforms.exe
+C:\Users\simm9\source\repos\Assignment_3_windowsforms\bin\Debug\net8.0-windows\Assignment_3_windowsforms.deps.json
+C:\Users\simm9\source\repos\Assignment_3_windowsforms\bin\Debug\net8.0-windows\Assignment_3_windowsforms.runtimeconfig.json
+C:\Users\simm9\source\repos\Assignment_3_windowsforms\bin\Debug\net8.0-windows\Assignment_3_windowsforms.dll
+C:\Users\simm9\source\repos\Assignment_3_windowsforms\bin\Debug\net8.0-windows\Assignment_3_windowsforms.pdb
+C:\Users\simm9\source\repos\Assignment_3_windowsforms\obj\Debug\net8.0-windows\Assignment_3_windowsforms.MainForm.resources
+C:\Users\simm9\source\repos\Assignment_3_windowsforms\obj\Debug\net8.0-windows\Assignment_3_windowsforms.csproj.GenerateResource.cache
+C:\Users\simm9\source\repos\Assignment_3_windowsforms\obj\Debug\net8.0-windows\Assignment_3_windowsforms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simm9\source\repos\Assignment_3_windowsforms\obj\Debug\net8.0-windows\Assignment_3_windowsforms.AssemblyInfoInputs.cache
+C:\Users\simm9\source\repos\Assignment_3_windowsforms\obj\Debug\net8.0-windows\Assignment_3_windowsforms.AssemblyInfo.cs
+C:\Users\simm9\source\repos\Assignment_3_windowsforms\obj\Debug\net8.0-windows\Assignment_3_windowsforms.csproj.CoreCompileInputs.cache
+C:\Users\simm9\source\repos\Assignment_3_windowsforms\obj\Debug\net8.0-windows\Assignment_3_windowsforms.dll
+C:\Users\simm9\source\repos\Assignment_3_windowsforms\obj\Debug\net8.0-windows\refint\Assignment_3_windowsforms.dll
+C:\Users\simm9\source\repos\Assignment_3_windowsforms\obj\Debug\net8.0-windows\Assignment_3_windowsforms.pdb
+C:\Users\simm9\source\repos\Assignment_3_windowsforms\obj\Debug\net8.0-windows\Assignment_3_windowsforms.genruntimeconfig.cache
+C:\Users\simm9\source\repos\Assignment_3_windowsforms\obj\Debug\net8.0-windows\ref\Assignment_3_windowsforms.dll
